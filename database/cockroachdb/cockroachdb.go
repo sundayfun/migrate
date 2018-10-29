@@ -17,8 +17,8 @@ import (
 )
 
 import (
-	"github.com/golang-migrate/migrate"
-	"github.com/golang-migrate/migrate/database"
+	"github.com/sundayfun/migrate"
+	"github.com/sundayfun/migrate/database"
 )
 
 func init() {

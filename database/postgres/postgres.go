@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/golang-migrate/migrate"
-	"github.com/golang-migrate/migrate/database"
+	"github.com/sundayfun/migrate"
+	"github.com/sundayfun/migrate/database"
 	"github.com/lib/pq"
 )
 

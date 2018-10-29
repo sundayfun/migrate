@@ -3,5 +3,5 @@
 package main
 
 import (
-	_ "github.com/golang-migrate/migrate/source/godoc_vfs"
+	_ "github.com/sundayfun/migrate/source/godoc_vfs"
 )

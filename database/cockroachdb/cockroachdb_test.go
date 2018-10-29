@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"bytes"
-	dt "github.com/golang-migrate/migrate/database/testing"
-	mt "github.com/golang-migrate/migrate/testing"
+	dt "github.com/sundayfun/migrate/database/testing"
+	mt "github.com/sundayfun/migrate/testing"
 	"github.com/lib/pq"
 )
 

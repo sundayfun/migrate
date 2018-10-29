@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/golang-migrate/migrate"
-	"github.com/golang-migrate/migrate/database"
+	"github.com/sundayfun/migrate"
+	"github.com/sundayfun/migrate/database"
 )
 
 var DefaultMigrationsTable = "schema_migrations"

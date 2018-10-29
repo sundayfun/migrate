@@ -3,8 +3,8 @@ package stub
 import (
 	"testing"
 
-	"github.com/golang-migrate/migrate/source"
-	st "github.com/golang-migrate/migrate/source/testing"
+	"github.com/sundayfun/migrate/source"
+	st "github.com/sundayfun/migrate/source/testing"
 )
 
 func Test(t *testing.T) {

@@ -3,5 +3,5 @@
 package main
 
 import (
-	_ "github.com/golang-migrate/migrate/source/google_cloud_storage"
+	_ "github.com/sundayfun/migrate/source/google_cloud_storage"
 )
